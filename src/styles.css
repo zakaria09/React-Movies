@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.titleBar {
+  background: #000;
+  display: block;
+  color: #fff;
+  padding-left: 30px;
+}
+
+.searchBar {
+  display: block;
+  font-size: 24px;
+  width: 100%;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
